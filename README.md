@@ -12,5 +12,5 @@ deno bundle input.ts -- output.js
 Can be replaced with:
 
 ```sh
-deno run -A https://raw.githubusercontent.com/jflatow/bundy/refs/heads/master/cli.ts input.ts > output.js
+deno run -A https://deno.land/x/bundy/cli.ts input.ts > output.js
 ```
